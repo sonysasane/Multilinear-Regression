@@ -1,5 +1,5 @@
 
-df <- read.csv("50_Startups.csv")
+df <- read.csv("500_Startups.csv")
 
 head(df)
 str(df)
